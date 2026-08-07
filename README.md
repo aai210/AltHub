@@ -93,6 +93,8 @@ Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 Browser Forks -> [LibreWolf](https://librewolf.net) / [Ungoogled Chromium ](https://github.com/ungoogled-software/ungoogled-chromium)
 
+Sandbox -> [Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+
 Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
 Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
