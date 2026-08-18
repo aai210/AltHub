@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://blog.internxt.com/content/images/size/w2000/2024/11/which_files_do_you_need-_to_encrypt.png"/>
+<img src="https://github.com/andrartamonov/AltHub/blob/main/Image.jpg"/>
 
 &nbsp;
 
