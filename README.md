@@ -62,7 +62,7 @@ Screen Capture -> [ShareX](https://github.com/ShareX/ShareX)
 
 Screen Recording -> [OBS](https://github.com/obsproject/obs-studio)
 
-Communication -> [Signal](https://signal.org) / [Element](https://element.io) / [SimpleX](https://simplex.chat) / [Stoat](https://stoat.chat) / [Jitsi Meet](https://jitsi.org) / [Rocket.Chat](https://rocket.chat)
+Communication -> [Signal](https://signal.org) / [Element](https://element.io) / [SimpleX](https://simplex.chat) / [Stoat](https://stoat.chat) / [Jitsi Meet](https://jitsi.org)
 
 Speech to Text -> [Handy](https://github.com/cjpais/Handy)
 
