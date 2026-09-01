@@ -158,3 +158,6 @@ Search Engines -> [SearXNG](https://github.com/searxng/searxng)
 | [Awesome Privacy](https://github.com/pluja/awesome-privacy) | List of free, open source and privacy respecting services and alternatives to privative services. |
 | [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) | This page provides general information about notable Linux distributions in the form of a categorized list. |
 | [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned) | Website that allows Internet users to check whether their personal data has been compromised by data breaches. |
+
+## Icons
+☁️ - Available for Self-Hosting
