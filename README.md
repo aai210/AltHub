@@ -114,7 +114,7 @@ Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [CrowdSec](https:
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
-Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica) / [Planka](https://github.com/plankanban/planka)
+Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
 
 Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
