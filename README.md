@@ -124,8 +124,6 @@ Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) 
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Koel](https://github.com/koel/koel)
 
-Backup -> [Duplicati](https://github.com/duplicati/duplicati)
-
 Design Tools -> [Penpot](https://github.com/penpot/penpot)
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
