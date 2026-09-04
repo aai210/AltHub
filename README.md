@@ -85,6 +85,8 @@ Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://
 
 Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
+Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
+
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [NetGuard (Android)](https://github.com/M66B/NetGuard)
 
 AI Chat -> [Ollama](https://github.com/ollama/ollama) / [Unsloth](https://github.com/unslothai/unsloth) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira) / [Perplexica](https://github.com/ItzCrazyKns/Perplexica) / [LocalAI](https://github.com/mudler/LocalAI) / [PocketPal AI (Android)](https://github.com/a-ghorbani/pocketpal-ai)
