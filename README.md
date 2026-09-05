@@ -85,6 +85,8 @@ Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://
 
 Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
+Home Server OS -> [UmbrelOS](https://github.com/getumbrel/umbrel)
+
 Hypervisor OS -> [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [NetGuard (Android)](https://github.com/M66B/NetGuard)
