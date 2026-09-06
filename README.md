@@ -126,8 +126,6 @@ Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) 
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Koel](https://github.com/koel/koel)
 
-Design Tools -> [Penpot](https://github.com/penpot/penpot)
-
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
 Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [File Browser](https://github.com/filebrowser/filebrowser)
